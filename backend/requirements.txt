@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+python-multipart
+sqlalchemy
+pydantic
+aiofiles
+pdfplumber
+python-docx
+langchain
+openai
+requests
+numpy
